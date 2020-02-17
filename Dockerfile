@@ -1,4 +1,4 @@
-FROM theiaide/theia:latest
+FROM theiaide/theia-go:latest
 
 USER root
 
