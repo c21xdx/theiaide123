@@ -11,4 +11,4 @@ apt-get clean && rm -rf /var/lib/apt/lists/* /var/tmp/* /tmp/*
 
 ADD frpc.ini /home/frp
 
-ENTRYPOINT ["/c9run.sh"]
+ENTRYPOINT ["/run.sh"]
