@@ -1,9 +1,9 @@
 # Theia ide
-theia go, frp
+theia go, frp, cf
 ```
-* ENV FRPS_IP 1.1.1.1
-  ENV FRPS_PORT 7000
-* ENV DOMAIN 123.com
-  ENV USER admin
-  ENV PASSWD admin
+ENV CF_DOMAIN 123.com
+ENV F_TOKEN 123456
+ENV USER admin
+ENV PASSWD admin
+
 ```
