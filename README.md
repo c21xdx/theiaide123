@@ -1,3 +1,3 @@
-# theiaide123
+# Theia ide
 theia go, frp
 
