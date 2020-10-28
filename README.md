@@ -1,5 +1,5 @@
 # Theia ide
-theia go, frp
+theia go, frp, enjoy!
 ```
 * ENV FRPS_IP 1.1.1.1
   ENV FRPS_PORT 7000
